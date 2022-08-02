@@ -29,6 +29,9 @@ Users should be able to:
 
 ![](./images/screenshot-product-card-final.jpg)
 
+## Links
+- [Finished Project](https://nick89mck.github.io/product-preview-card/) - Deployed via GitHub Pages
+
 ## My process
 
 ### Built with
