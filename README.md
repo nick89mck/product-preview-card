@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-[](./images/screenshot-product-card-final.jpg)
+![](./images/screenshot-product-card-final.jpg)
 
 ### Links
 
