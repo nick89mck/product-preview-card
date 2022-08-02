@@ -94,6 +94,8 @@ svg {
 
 /* End Reset */
 
+ /* Utility Classes */
+
 .ff-body {
 	font-family: var(--ff-body);
 }
@@ -160,6 +162,9 @@ svg {
 .line-through {
 	text-decoration: line-through;
 }
+
+/* End Utility Classes */
+
 header {
 	letter-spacing: .5rem;
 }
