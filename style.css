@@ -163,11 +163,11 @@ svg {
 	text-decoration: line-through;
 }
 
-/* End Utility Classes */
-
-header {
+.letter-spacing-5 {
 	letter-spacing: .5rem;
 }
+
+/* End Utility Classes */
 
 h1 {
 	line-height: 1.2;
